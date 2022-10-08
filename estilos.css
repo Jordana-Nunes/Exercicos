@@ -1,0 +1,47 @@
+body{
+    margin:10%;
+    background-color: lightskyblue;
+}
+p{
+    margin: 0%;
+    background-color: whitesmoke;
+}
+.inico{
+    border-style: solid;
+    border-bottom-style: dotted;
+    border-width: 2px;
+    border-color: black  ;
+    /* padding-top: 10px;
+    padding-inline: 10px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    text-align: justify;
+}
+.meio{
+    border-style: solid;
+    border-bottom-style: dotted;
+    border-top-style: dotted;
+    border-width: 2px;
+    border-color: black  ;
+    /* padding-top: 10px;
+    padding-inline: 10px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    text-align: justify;
+}
+.fim{
+    border-style: solid;
+    border-top-style: dotted;
+    border-width: 2px;
+    border-color: black  ;
+    /* padding-top: 10px;
+    padding-inline: 10px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    text-align: justify;
+}
+p:hover{
+    border-style: solid;
+    border-color: red;
+    background-color: lightsalmon;
+}
